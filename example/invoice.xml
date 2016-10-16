@@ -1,0 +1,38 @@
+<invoice>
+    <mul>N</mul>
+	<invoice-view>
+		<out>
+
+			<invoice-id>12</invoice-id>
+			<invoice-name>zhang</invoice-name>
+
+		</out>
+
+<out>
+    </out>
+<summary>
+    
+    <info>test</info>
+    
+</summary>
+	</invoice-view>
+	<invoice-view>
+
+		<out>
+
+			<invoice-id>234</invoice-id>
+			<invoice-name>yan</invoice-name>
+
+		</out>
+
+<summary>
+    
+    <info>test</info>
+    
+</summary>
+
+	</invoice-view>
+
+
+
+</invoice>
